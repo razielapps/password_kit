@@ -20,8 +20,8 @@ A Django REST API for password security analysis, RockYou database checking, and
 
 ```bash
 # Clone and install dependencies
-git clone <your-repo>
-cd password-security-api
+git clone https://github.com/razielapps/password_kit
+cd password_kit
 pip install -r requirements.txt
 
 # Configure database
